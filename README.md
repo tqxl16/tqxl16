@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tqxl16
-- 👀 I’m interested in wed design, wed development facebook social maketing, data entry.
+- 👀 I’m interested in wed design, wed development, facebook social maketing, data entry.
 - 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
